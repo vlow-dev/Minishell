@@ -1,10 +1,5 @@
 # VSH – A Mini Shell  
 
-![Language](https://img.shields.io/github/languages/top/vlow-dev/vsh)  
-![Repo Size](https://img.shields.io/github/repo-size/vlow-dev/vsh)  
-![Last Commit](https://img.shields.io/github/last-commit/vlow-dev/vsh)  
-![License](https://img.shields.io/badge/license-MIT-blue)  
-
 VSH is a **full-featured UNIX-like shell** implementation.  
 It re-creates core shell behavior while providing a modular, well-documented C codebase for learning about **parsing, expansion, job control, and built-ins**.
 
